@@ -31,4 +31,5 @@ It’s simple but elegant — built manually without frameworks to show my **fro
 
 ---
 
-## 📁 Project Structure
+## 🚀 Live Demo
+🔗 [View on GitHub Pages](https://michaelideba0.github.io/Michaelideba-portfolio/)
